@@ -1,0 +1,15 @@
+C:\Users\Wykładowca-218A\Desktop\CW8\Cwiczenia 7 Zad 9\bin\Debug\net6.0\Cwiczenia 7 Zad 9.exe
+C:\Users\Wykładowca-218A\Desktop\CW8\Cwiczenia 7 Zad 9\bin\Debug\net6.0\Cwiczenia 7 Zad 9.deps.json
+C:\Users\Wykładowca-218A\Desktop\CW8\Cwiczenia 7 Zad 9\bin\Debug\net6.0\Cwiczenia 7 Zad 9.runtimeconfig.json
+C:\Users\Wykładowca-218A\Desktop\CW8\Cwiczenia 7 Zad 9\bin\Debug\net6.0\Cwiczenia 7 Zad 9.dll
+C:\Users\Wykładowca-218A\Desktop\CW8\Cwiczenia 7 Zad 9\bin\Debug\net6.0\Cwiczenia 7 Zad 9.pdb
+C:\Users\Wykładowca-218A\Desktop\CW8\Cwiczenia 7 Zad 9\obj\Debug\net6.0\Cwiczenia 7 Zad 9.csproj.AssemblyReference.cache
+C:\Users\Wykładowca-218A\Desktop\CW8\Cwiczenia 7 Zad 9\obj\Debug\net6.0\Cwiczenia 7 Zad 9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wykładowca-218A\Desktop\CW8\Cwiczenia 7 Zad 9\obj\Debug\net6.0\Cwiczenia 7 Zad 9.AssemblyInfoInputs.cache
+C:\Users\Wykładowca-218A\Desktop\CW8\Cwiczenia 7 Zad 9\obj\Debug\net6.0\Cwiczenia 7 Zad 9.AssemblyInfo.cs
+C:\Users\Wykładowca-218A\Desktop\CW8\Cwiczenia 7 Zad 9\obj\Debug\net6.0\Cwiczenia 7 Zad 9.csproj.CoreCompileInputs.cache
+C:\Users\Wykładowca-218A\Desktop\CW8\Cwiczenia 7 Zad 9\obj\Debug\net6.0\Cwiczenia 7 Zad 9.dll
+C:\Users\Wykładowca-218A\Desktop\CW8\Cwiczenia 7 Zad 9\obj\Debug\net6.0\refint\Cwiczenia 7 Zad 9.dll
+C:\Users\Wykładowca-218A\Desktop\CW8\Cwiczenia 7 Zad 9\obj\Debug\net6.0\Cwiczenia 7 Zad 9.pdb
+C:\Users\Wykładowca-218A\Desktop\CW8\Cwiczenia 7 Zad 9\obj\Debug\net6.0\Cwiczenia 7 Zad 9.genruntimeconfig.cache
+C:\Users\Wykładowca-218A\Desktop\CW8\Cwiczenia 7 Zad 9\obj\Debug\net6.0\ref\Cwiczenia 7 Zad 9.dll
